@@ -18,7 +18,10 @@ else:
 print("-------------------------------------------------------")
 
 
+
 ##Another Solution :
 import math
 
-print(math.factorial(5))
+num = int(input('enter a num = '))
+
+print(math.factorial(num))
